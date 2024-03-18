@@ -10,6 +10,6 @@ This code can be used to calculate the net charge of each atom of your system af
 5. Writes Net Charges to a File: Finally, the code writes the calculated net charges to a file named "Net_bader_charge.dat", along with the corresponding atom indices and types.
 
 # Installation steps:
-1- Download the code "bader_vasp.cpp".  
-2- Comnpile it with "g++ -o bader_vasp bader_vasp.cpp" or other C++ compiler.  
-3- Run the excutable "./bader_vasp" in the folder containing the POSACR, the POTCAR and the ACE.dat files.
+1. Download the code "bader_vasp.cpp".  
+2. Comnpile it with "g++ -o bader_vasp bader_vasp.cpp" or other C++ compiler.  
+3. Run the excutable "./bader_vasp" in the folder containing the POSACR, the POTCAR and the ACE.dat files.
